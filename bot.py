@@ -47,5 +47,3 @@ async def on_message(message):
         await message.channel.send(ppt)
     else:
         await message.channel.send(message.content)
-
-client.run('MTQ0MDgyNTY4NTI5OTAzNjE2MA.GjzT2y.mBix7Oswykrcj7PC0lIFtRUce2MSFc6h7PKliA')
